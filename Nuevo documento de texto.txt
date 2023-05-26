@@ -1,3 +1,0 @@
-<link rel="stylesheet" href="style.css">
-
-https://getbootstrap.com/docs/5.3/customize/color/
